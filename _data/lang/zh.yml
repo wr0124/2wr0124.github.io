@@ -131,34 +131,34 @@ post-list:
 # for home layout
 home:
   title: 欢迎
-  button_name: ホーム
-  new_posts_title: 新着記事
-  new_posts_show_more_button: もっと見る ...
+  button_name: 主页
+  new_posts_title: 新文章
+  new_posts_show_more_button: 查看更多 ...
 
 # for archives layout
 archives:
-  title: 存档
-  button_name: アーカイブ
-  page_header: アーカイブ
+  title: 文档
+  button_name: 文档
+  page_header: 文档
 
 # for about layout
 about:
   title: 关于
-  button_name: 私について
-  email_title: メール
+  button_name: 关于
+  email_title: 电子邮件
 
 # for links layout
 links:
   title: 链接
-  button_name: リンク
-  link_text: Webサイト
+  button_name: 链接
+  link_text: 网站
   info_text: 説明
 
 # for projects layout
 projects:
   title: 项目
-  button_name: プロジェクト
-  read_more_text: 続きを読む
+  button_name: 项目
+  read_more_text: 阅读更多
   read_less_text: 閉じる
 
 # for privacy-policy layout
@@ -168,13 +168,13 @@ privacy-policy:
 # constants to be replaced for
 constants:
   greetings: 你好
-  welcome: ようこそ
-  sample: サンプル
+  welcome: 欢迎
+  sample: 样本
 
 # for contact form
 contact_form:
   button_name: 联系方式
-  formLoadingText: お問い合わせフォームの読み込み中…
+  formLoadingText: 正在加载联系表...
 
 # for cookie consent
 cookie_consent:
