@@ -133,7 +133,7 @@ home:
   title: Bienvenue
   button_name: Principal
   new_posts_title: Nouveaux articles
-  new_posts_show_more_button: Veja mais ...
+  new_posts_show_more_button: Voir plus ...
 
 # for archives layout
 archives:
@@ -144,7 +144,7 @@ archives:
 # for about layout
 about:
   title: A propos
-  button_name: Sobre
+  button_name: A propos
   email_title: Email
 
 # for links layout
@@ -157,7 +157,7 @@ links:
 # for projects layout
 projects:
   title: Projets
-  button_name: Projetos
+  button_name: Projets
   read_more_text: Leia mais
   read_less_text: Leia menos
 
@@ -168,12 +168,12 @@ privacy-policy:
 # constants to be replaced for
 constants:
   greetings: Bonjour
-  welcome: Bem vindo
+  welcome: Bienvenue
   sample: Amostra
 
 # for contact form
 contact_form:
-  button_name: Formulário de Contato
+  button_name: Formulaire de contact
   formLoadingText: Carregando o Formulário de Contato...
 
 # for cookie consent
