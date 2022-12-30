@@ -8,10 +8,10 @@ lng:
   country: CN
   switch_title: Cn
   offer:
-    title: 言語
-    msg_page: このページを日本語で表示する。
+    title: 語言
+    msg_page: 用中文显示这个页面。
     # if page translation is not available, use this.
-    msg_site: 日本語ホームへ
+    msg_site: 前往中文主页
 
 date:
   # if %b is used in the long format, it will be replaced with the corresponding item in 'months' list below.
@@ -22,26 +22,26 @@ date:
   months: [1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月]
 
 not_found:
-  header: ページが見つかりませんでした。
-  line1: リクエストされたページが見つかりませんでした。
-  line2: メニューを試すか、利用可能な場合はサイト検索を試してください。
+  header: 找不到网页
+  line1: 找不到请求的页面
+  line2: 尝试菜单或尝试网站搜索（如果可用）。
 
 no_translation_tooltip: 訳がありません
 
 navigation:
-  contact_header: コンタクト
+  contact_header: 联系方式
 
 color_scheme_switch_tooltip: 配色
 
 search:
-  placeholder: 検索
-  noResultText: 何も見つかりませんでした。
+  placeholder: 检索
+  noResultText: 没有搜索到
 
 image_viewer:
   load_error: 画像が読み込めませんでした。
 
 copyright:
-  additional_text: " 著作権で保護されています。"
+  additional_text: "版权保护。"
 
 creative_commons:
   some_rights_reserved: 一部の権利は留保されています。
@@ -67,17 +67,17 @@ post:
     # char or words per minute
     per_minute: 500
   pager_buttons:
-    older_post: "← 古い投稿へ"
-    newer_post: "新しい投稿へ →"
+    older_post: "← 到旧帖子"
+    newer_post: "到新帖子 →"
     first_post: 最初
     last_post: 最後
   comments:
     disqus:
-      count_title: コメント
-      noscript: コメントを表示するには、JavaScriptを有効にしてください。
-      click_to_load: "コメントを表示する"
+      count_title: 评论
+      noscript: 请启用 JavaScript 以查看评论。
+      click_to_load: “显示评论”
       consent:
-        title: コメント (Disqus.com)
+        title: 评论 (Disqus.com)
         text: >
           コメント機能はサードパーティによってホストされています。 外部コンテンツを表示することにより、disqus.comの$termsと$privacy_policyに同意したことになります。
           <br>ターゲットを絞った広告をオプトアウトする場合は、$settings_linkを開き、「opt-out」ボタンをクリックして閉じます。 ここに戻ってコメントを表示してください。
@@ -106,8 +106,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: ブログ
-  button_name: ブログ
+  title: 博客
+  button_name: 博客
   upside_down_tabs:
     tab:
       all: 全て
