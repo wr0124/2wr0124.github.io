@@ -29,7 +29,7 @@ not_found:
 no_translation_tooltip: Não há tradução
 
 navigation:
-  contact_header: Contato
+  contact_header: Contact
 
 color_scheme_switch_tooltip: Escolha a cor
 
@@ -130,20 +130,20 @@ post-list:
 
 # for home layout
 home:
-  title: Bem vindo
+  title: bienvenue
   button_name: Principal
   new_posts_title: Novos artigos
   new_posts_show_more_button: Veja mais ...
 
 # for archives layout
 archives:
-  title: Arquivo
+  title: Archives
   button_name: Arquivo
   page_header: Arquivo
 
 # for about layout
 about:
-  title: Sobre
+  title: A propos
   button_name: Sobre
   email_title: Email
 
@@ -156,7 +156,7 @@ links:
 
 # for projects layout
 projects:
-  title: Projetos
+  title: Projets
   button_name: Projetos
   read_more_text: Leia mais
   read_less_text: Leia menos
@@ -167,7 +167,7 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Olá
+  greetings: Bonjour
   welcome: Bem vindo
   sample: Amostra
 
