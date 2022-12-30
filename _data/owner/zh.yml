@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "サイト名"
+brand: "王茹"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+#brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "作者名"
+name: "王茹"
 
 # home page top header texts
 home:
@@ -18,12 +18,12 @@ home:
   top_header_line2: "$site_brand"
 
 # about page sub title
-about:
-  sub_title: "$site_sample"
+#about:
+#  sub_title: "$site_sample"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
-copyright_start_year: "2022"
+copyright_start_year: "2023"
 
 # make sure creative_commons.enable is true in _data/conf/main.yml file
 creative_commons:
@@ -48,9 +48,9 @@ meta_common_description: "メタディスクリプション"
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
-  #- email: ""
-  #- linkedin: ""
+  - github: "wr0124"
+  - email: "wr0124"
+  - linkedin: "wr0124"
   #- twitter: ""
   #- mastodon: ""
   #- instagram: ""
