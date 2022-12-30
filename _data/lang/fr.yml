@@ -19,7 +19,7 @@ date:
   day: "%d"
   year: "%Y"
   # months itself also used in Archive page.
-  months: [Jan, Fev, Mar, Abr, Mai, Jun, Jul, Ago, Set, Out, Nov, Dez]
+  months: [Janv, Févr, Mars, Avr, Mai, Juin, Juill, Août, Sept, Oct, Nov, Déc]
 
 not_found:
   header: Página não encontrada
