@@ -130,14 +130,14 @@ post-list:
 
 # for home layout
 home:
-  title: bienvenue
+  title: Bienvenue
   button_name: Principal
   new_posts_title: Novos artigos
   new_posts_show_more_button: Veja mais ...
 
 # for archives layout
 archives:
-  title: Archives
+  title: Archive
   button_name: Arquivo
   page_header: Arquivo
 
