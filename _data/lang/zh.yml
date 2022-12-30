@@ -130,33 +130,33 @@ post-list:
 
 # for home layout
 home:
-  title: ようこそ
+  title: 欢迎
   button_name: ホーム
   new_posts_title: 新着記事
   new_posts_show_more_button: もっと見る ...
 
 # for archives layout
 archives:
-  title: アーカイブ
+  title: 存档
   button_name: アーカイブ
   page_header: アーカイブ
 
 # for about layout
 about:
-  title: 私について
+  title: 关于
   button_name: 私について
   email_title: メール
 
 # for links layout
 links:
-  title: リンク
+  title: 链接
   button_name: リンク
   link_text: Webサイト
   info_text: 説明
 
 # for projects layout
 projects:
-  title: プロジェクト
+  title: 项目
   button_name: プロジェクト
   read_more_text: 続きを読む
   read_less_text: 閉じる
@@ -167,13 +167,13 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: こんにちは
+  greetings: 你好
   welcome: ようこそ
   sample: サンプル
 
 # for contact form
 contact_form:
-  button_name: お問い合わせフォーム
+  button_name: 联系方式
   formLoadingText: お問い合わせフォームの読み込み中…
 
 # for cookie consent
